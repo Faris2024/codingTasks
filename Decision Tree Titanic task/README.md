@@ -26,13 +26,6 @@ This coding task implements a decision tree classifier to predict the survival o
    ```bash
    pip install -r requirements.txt
    ```
-   *If you don’t have a `requirements.txt` yet, create one with the following content:*
-   ```
-   pandas
-   numpy
-   matplotlib
-   scikit-learn
-   ```
 
 ## Usage
 After installation, you can run the script directly from the command line:
