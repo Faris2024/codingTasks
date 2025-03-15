@@ -14,7 +14,7 @@ This coding task implements a decision tree classifier to predict the survival o
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/codingTasks.git
+   git clone https://github.com/Faris2024/codingTasks.git
    cd codingTasks/Titanic_Decision_Tree
    ```
 2. **Create and activate a virtual environment (optional but recommended):**
@@ -48,8 +48,7 @@ The program will:
 
 ## Screenshots
 Below is an example of what the decision tree visualization might look like:
-![Decision Tree Visualization](screenshot.png)
-> *Note: Replace "screenshot.png" with an actual image file saved in the repository showing your program’s output.*
+![Decision Tree Visualization](Capture2.png)
 
 ## Credits
 - **Author:** [Faris Al Waly](https://github.com/Faris2024)
