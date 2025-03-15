@@ -50,7 +50,7 @@ python random_forest_titantic.py
 ## Screenshots
 Below is an example of the feature importance visualization:
 
-![Feature Importance](screenshot.png)
+![Feature Importance](SS5.png)
 
 ## Credits
 - **Author:** [Faris Al Waly](https://github.com/Faris2024)
