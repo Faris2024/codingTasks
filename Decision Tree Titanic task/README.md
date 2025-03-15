@@ -48,7 +48,7 @@ The program will:
 
 ## Screenshots
 Below is an example of what the decision tree visualization might look like:
-![Decision Tree Visualization](Capture2.png)
+![Decision Tree Visualization](https://images.app.goo.gl/5kYsJ9UeQBV11ei2A)
 
 ## Credits
 - **Author:** [Faris Al Waly](https://github.com/Faris2024)
