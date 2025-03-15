@@ -50,7 +50,6 @@ python random_forest_titantic.py
 Below is an example of the feature importance visualization:
 
 ![Feature Importance](screenshot.png)
-> *Replace "screenshot.png" with an actual image in the repository.*
 
 ## Credits
 - **Author:** [Faris Al Waly](https://github.com/Faris2024)
